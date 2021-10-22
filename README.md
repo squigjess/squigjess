@@ -8,7 +8,7 @@ class Jess:
         self.pronouns   = ["she", "her", not "they"]
         self.languages  = ["python", "js"]
         self.frameworks = ["flask", "nextcord", "sqlalchemy"]
-        self.enjoys     = ["anything involving web APIs",
+        self.enjoys     = ["(mis)using web APIs",
                            "racking my brain over weird bugs",
                            "being gay/sexy/impossible to kill"]
         self.projects   = ["https://squigjess.github.io/JukeBot/"]
