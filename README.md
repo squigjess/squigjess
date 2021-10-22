@@ -10,8 +10,8 @@ class Jess:
         self.frameworks = ["flask", "nextcord", "sqlalchemy"]
         self.enjoys     = ["anything involving web APIs",
                            "racking my brain over weird bugs",
-                           "being evil and gay and impossible to kill"]
-        self.projects   = {"JukeBot" : "https://squigjess.github.io/JukeBot/"}
+                           "being gay/sexy/impossible to kill"]
+        self.projects   = ["https://squigjess.github.io/JukeBot/"]
 
     def contact(self):
         return {"twitter" : "https://twitter.com/an_irl_squig/",
