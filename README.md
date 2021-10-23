@@ -1,5 +1,5 @@
 ## <img src="https://media3.giphy.com/media/3ov9k0Ziq50EoOuWRi/giphy.gif" width="70"> it me. squig.
-<img align='right' src="https://media2.giphy.com/media/jOsoGmmWGSloPU8fMH/giphy.gif" width="270">
+<img align='right' src="https://media2.giphy.com/media/jOsoGmmWGSloPU8fMH/giphy.gif" width="250">
 
 ```python
 class Jess:
