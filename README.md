@@ -10,7 +10,7 @@ class Jess:
         self.enjoys     = ["(mis)using web APIs",
                            "racking my brain over weird bugs",
                            "spending hrs automating a minute-long task"]
-        self.projects   = ["https://squigjess.github.io/JukeBot/"]
+        self.projects   = ["https://jukebot-org.github.io/JukeBot/"]
 
     def contact(self):
         return {"twitter" : "https://twitter.com/an_irl_squig/",
