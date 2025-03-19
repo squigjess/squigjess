@@ -4,17 +4,16 @@
 ```python
 class Jess:
     def __init__(self):
-        self.pronouns   = ["she", "her", not "they"]
+        self.pronouns   = [ ["it", "its"], ["she", "her"] ]
         self.languages  = ["python", "sql"]
         self.frameworks = ["flask", "sqlalchemy", "nextcord"]
         self.enjoys     = ["(mis)using web APIs",
                            "racking my brain over weird bugs",
                            "spending hrs automating a minute-long task",
                            "documenting the stuff nobody else wants to document"]
-        self.projects   = ["https://jukebot.app/"]
 
     def contact(self):
         return {"twitter" : "https://twitter.com/an_irl_squig/",
-                "discord" : "squig#1312"}
+                "discord" : "@squig"}
 ```
 ---
